@@ -9,3 +9,6 @@ Fork is a clone of a remote repo and creating another remote repo directly on Gi
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 In case the remote changes, there is the ability to identify those changes and merge accordingly.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use email. It would be easier because the lineage is easy to follow but it would be harder comparing versions.
