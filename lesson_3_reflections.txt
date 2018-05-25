@@ -12,3 +12,6 @@ In case the remote changes, there is the ability to identify those changes and m
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use email. It would be easier because the lineage is easy to follow but it would be harder comparing versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+In the event that I want to modify existing code or if I want to introduce new code.
